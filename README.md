@@ -16,4 +16,4 @@ A good 5V power supply e.g. [AC / DC 5V 2.5A Switching Power Supply MicroUSB](ht
 
 # Check out the [LEARN](https://learn.circuit.rocks/?p=2353)
 
-![PixelClock] (/Docs/Clock-Pic-s.jpg)
+![PixelClock](./Docs/Clock-Pic-s.jpg)
